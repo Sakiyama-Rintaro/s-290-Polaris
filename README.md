@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![s-270logo](https://user-images.githubusercontent.com/61620703/133873620-3252d696-a6b6-4d22-a7cf-28cc065be1b1.jpg)
 
 # S-270 Malus 電装システム
@@ -201,3 +202,6 @@ S-270では、コロナによる学内活動禁止が繰り返し行われたた
 |7月|TF、鳥コン||
 
 ## どのように勉強していけば良いかについて
+=======
+# s-290-Polaris
+>>>>>>> f5b3b8b174967ac7d0af9cbc7a1ec5d399d0c393
