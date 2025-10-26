@@ -75,7 +75,7 @@ S-290 Malus電装システムの全体図を示します。<br>
 ## 各計器・部品等の役割
 |計器・部品名|役割|
 |---|---|
-|[機速計](https://github.com/TeamBirdmanTrial/MainBoard.doritos.S270/blob/main/doc/picture/Airspeed_meter.md)|機体の速度(空気に対する相対速度)を計測する|
+|[機速計](https://github.com/Sakiyama-Rintaro/s-290-Polaris/tree/main/Module/Airspeed_meter.md)|機体の速度(空気に対する相対速度)を計測する|
 |[回転数計](https://github.com/TeamBirdmanTrial/MainBoard.doritos.S270/blob/main/doc/picture/Cadence_meter.md)|パイロット達がペダルを回す速さを計測する|
 |[高度計](https://github.com/TeamBirdmanTrial/MainBoard.doritos.S270/blob/main/doc/picture/Altimeter.md)|機体の高度を計測する|
 |姿勢角計|機体の姿勢情報を計測する|
