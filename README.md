@@ -23,10 +23,10 @@ Android周りのシステムに関することは、21代電装班員である�
 モノづくりを楽しんで、充実した大学生活を送ってください！！<br>
 
 ## リポジトリの説明
-**・[TBT_S-270_Malus_System](https://github.com/Ryosuke-123/doritos.tbt.denso.21st/tree/main/TBT_S-270_Malus_System)** //完成品が入っています。プログラム書き込み方法と基板の取り扱いについては、このリポジトリのREADMEを参考にしてください。<br>
-**・[Module](https://github.com/Ryosuke-123/doritos.tbt.denso.21st/tree/main/Module)** //単体テストで用いたものが入っています。<br>
-**・[Yosan](https://github.com/Ryosuke-123/doritos.tbt.denso.21st/tree/main/Yosan)** //S-290での購入品についてのデータが入っています。<br>
-**・[doc](https://github.com/Ryosuke-123/doritos.tbt.denso.21st/tree/main/doc)** //作ったシステムの写真や動画などが入っています。<br>
+**・[TBT_S-290_Polaris_System](https://github.com/Sakiyama-Rintaro/s-290-Polaris/tree/main/Module)** //完成品が入っています。プログラム書き込み方法と基板の取り扱いについては、このリポジトリのREADMEを参考にしてください。<br>
+**・[Module](https://github.com/Sakiyama-Rintaro/s-290-Polaris/tree/main/Module)** //単体テストで用いたものが入っています。<br>
+**・[Yosan](https://github.com/Sakiyama-Rintaro/s-290-Polaris/tree/main/Yosan)** //S-290での購入品についてのデータが入っています。<br>
+**・[doc](https://github.com/Sakiyama-Rintaro/s-290-Polaris/tree/main/doc)** //作ったシステムの写真や動画などが入っています。<br>
 
 
 
@@ -75,18 +75,18 @@ S-290 Malus電装システムの全体図を示します。<br>
 ## 各計器・部品等の役割
 |計器・部品名|役割|
 |---|---|
-|[機速計](https://github.com/Ryosuke-123/doritos.tbt.denso.21st/blob/main/doc/picture/Airspeed_meter.md)|機体の速度(空気に対する相対速度)を計測する|
-|[回転数計](https://github.com/Ryosuke-123/doritos.tbt.denso.21st/blob/main/doc/picture/Cadence_meter.md)|パイロット達がペダルを回す速さを計測する|
-|[高度計](https://github.com/Ryosuke-123/doritos.tbt.denso.21st/blob/main/doc/picture/Altimeter.md)|機体の高度を計測する|
+|[機速計](https://github.com/TeamBirdmanTrial/MainBoard.doritos.S270/blob/main/doc/picture/Airspeed_meter.md)|機体の速度(空気に対する相対速度)を計測する|
+|[回転数計](https://github.com/TeamBirdmanTrial/MainBoard.doritos.S270/blob/main/doc/picture/Cadence_meter.md)|パイロット達がペダルを回す速さを計測する|
+|[高度計](https://github.com/TeamBirdmanTrial/MainBoard.doritos.S270/blob/main/doc/picture/Altimeter.md)|機体の高度を計測する|
 |姿勢角計|機体の姿勢情報を計測する|
 |心拍計|フライト時におけるパイロット達の心拍数を計測する|
 |温度計|サーボモータ付近の温度を計測する|
-|[GPS](https://github.com/Ryosuke-123/doritos.tbt.denso.21st/blob/main/doc/picture/GPS.md)|機体の現在位置を計測する|
+|[GPS](https://github.com/TeamBirdmanTrial/MainBoard.doritos.S270/blob/main/doc/picture/GPS.md)|機体の現在位置を計測する|
 |SD|機速・回転数・高度・姿勢・心拍数・温度・GPS・舵角等の情報を記録する|
 |音システム|機体の高度情報を音で知らせる|
-|[舵角計](https://github.com/Ryosuke-123/doritos.tbt.denso.21st/blob/main/doc/picture/Rudder_Angle_meter.md)|ER(サーボモータ)の制御角度を表示する|
-|[Android端末](https://github.com/Ryosuke-123/doritos.tbt.denso.21st/blob/main/doc/picture/Android.md)|前部パイロットにフライト情報を表示する|
-|[OLED](https://github.com/Ryosuke-123/doritos.tbt.denso.21st/blob/main/doc/picture/OLED.md)|後部パイロットにフライト情報を表示する|
+|[舵角計](https://github.com/Sakiyama-Rintaro/s-290-Polaris?tab=readme-ov-file)|ER(サーボモータ)の制御角度を表示する|
+|[Android端末](https://github.com/TeamBirdmanTrial/MainBoard.doritos.S270/blob/main/doc/picture/Android.md)|前部パイロットにフライト情報を表示する|
+|[OLED](https://github.com/TeamBirdmanTrial/MainBoard.doritos.S270/blob/main/doc/picture/OLED.md)|後部パイロットにフライト情報を表示する|
 |Li-Poバッテリー電圧監視システム|サーボモータ用Li-Poバッテリーの残り電圧の情報を記録する|
 
 ## システムの設計方針
