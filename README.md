@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-![s-270logo](https://user-images.githubusercontent.com/61620703/133873620-3252d696-a6b6-4d22-a7cf-28cc065be1b1.jpg)
+![IMG_0753](https://github.com/user-attachments/assets/68660c8d-c4d9-4e0b-9aec-190955e87da9)
+
 
 # S-270 Malus 電装システム
 
