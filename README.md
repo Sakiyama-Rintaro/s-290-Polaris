@@ -14,8 +14,8 @@
 に関することが詰まっています。<br>
 <br>
 
-なお、フライトデータ表示用のアプリ開発については次のリポジトリを参考にしてください。
-https://github.com/Sakiyama-Rintaro/FlightDisplay.S290
+なお、フライトデータ表示用のアプリ開発については次のリポジトリを参考にしてください。Androidアプリ開発、Webアプリ開発やその運用方法について記述してあります。<br>
+https://github.com/Sakiyama-Rintaro/FlightDisplay.S290<br>
 
 
 ## 後輩の皆さんへ
